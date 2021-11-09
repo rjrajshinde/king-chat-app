@@ -6,4 +6,4 @@
 
 >with the help of [https://chatengine.io](https://chatengine.io) along with firebase for easy setup apps 
  
-### Use this link to see How it Works https://king-kingchat.netlify.app/
+### This app is live here https://king-kingchat.netlify.app/
